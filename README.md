@@ -1,7 +1,7 @@
 # jQuestrade - Room
 [![](https://jitpack.io/v/mateimarica/j-questrade-room.svg)](https://jitpack.io/#mateimarica/j-questrade-room)
 
-This library is version of [**jQuestrade**](https://github.com/mateimarica/j-questrade) that has been tailored for use with the [**Room persistence library**](https://developer.android.com/jetpack/androidx/releases/room). 
+This library is a version of [**jQuestrade**](https://github.com/mateimarica/j-questrade) that has been tailored for use with the Android [**Room persistence library**](https://developer.android.com/jetpack/androidx/releases/room). 
 
 Made for [**QuestGraph**](https://github.com/mateimarica/questgraph).
 
